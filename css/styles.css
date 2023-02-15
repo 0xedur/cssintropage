@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 2em;
+    color: #E5B8F4;
+}
+h1{
+    margin: 50px auto 0 auto;
+    color: #E5B8F4;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 5.625rem;
+    line-height: 2;
+    font-weight: bold;
+}
+h2{
+    font-weight: normal;
+    color:#C147E9; ;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+h3{
+    font-family: 'Share Tech Mono', monospace;
+    color:#C147E9;
+    font-weight: bold;
+}
+.top{
+    background-color: #2D033B;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 0.5px;
+}
+.middle{
+    padding-top: 100px;
+    background-color: #810CA8;
+}
+.bottom{
+    background-color: #E5B8F4;
+    padding-top:10px;
+    padding-bottom: 0.1px;
+}
+.smountain{
+    height: 200px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 28%;
+    bottom: 200px;
+    top: 190px;
+    height: 100px;
+}
+.top-cloud{
+    position: absolute;
+    right: 28%;
+    top: 190px;
+    height: 100px;
+}
+.profile-pic{
+    height: 200px;
+}
+.skills-1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skills-2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+.contact-me{
+    padding-top: 50px;
+    background-color: #C147E9;
+}
+a{
+    color: #E5B8F4;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1;
+}
+p{
+    font-size: 1.18rem;
+}
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Share Tech Mono', monospace;
+    color: #ffffff;
+    font-size: 20px;
+    background: #2D033B;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    right: 50px;
+  }
+  
+  .btn:hover {
+    background: #2D033B;
+    background-image: -webkit-linear-gradient(top, #2D033B, #660064);
+    background-image: -moz-linear-gradient(top, #2D033B, #660064);
+    background-image: -ms-linear-gradient(top, #2D033B, #660064);
+    background-image: -o-linear-gradient(top, #2D033B, #660064);
+    background-image: linear-gradient(to bottom, #2D033B, #660064);
+    text-decoration: none;
+  }
+  .footer-link{
+    position: relative;
+    color: #2D033B;
+    top: 30px;
+    font-size: 1.5rem;
+  }
+  hr{
+    border: dotted 10px;
+    border-bottom: none;
+    width: 4%;  
+    color: #E5B8F4;
+    position: relative;
+    top: 20px;
+  }
+  .bongocat{
+    height: 80px;
+    width: 80px;
+    position: relative;
+    left: 80px;
+    bottom: 2px;
+  }
+  .skillshead{
+      color: #E5B8F4;
+      position: relative;
+      top:40px
+  }
+  .getin{
+    color: #2D033B;
+  }
+  .hello{
+    color: #E5B8F4;
+  }
+  .learnmore{
+    color: #2D033B; 
+  }
